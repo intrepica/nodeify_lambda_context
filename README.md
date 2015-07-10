@@ -1,9 +1,9 @@
-Nodeify Lambda
+Nodeify Lambda Context
 ====================
 
 About
 --------------
-Converts the context object on an AWS Lambda handler to a node callback.
+Converts an AWS Lambda context object to a node callback.
 
 Setup
 --------------
