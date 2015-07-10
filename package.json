@@ -1,0 +1,17 @@
+{
+  "name": "nodeify_lambda_context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Tim Fairbrother <tdfairbrother@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "node_modules/.bin/mocha",
+    "run": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "sinon": "^1.14.1"
+  }
+}
