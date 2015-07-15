@@ -1,3 +1,6 @@
+[![Build Status](https://semaphoreci.com/api/v1/projects/6174d74a-3a33-49d8-ae1f-50acd07757e2/483533/badge.svg)](https://semaphoreci.com/lp/nodeify_lambda_context)      
+
+
 Nodeify Lambda Context
 ====================
 
