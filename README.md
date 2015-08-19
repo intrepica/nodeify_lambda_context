@@ -1,22 +1,19 @@
-[![Build Status](https://semaphoreci.com/api/v1/projects/6174d74a-3a33-49d8-ae1f-50acd07757e2/483533/badge.svg)](https://semaphoreci.com/lp/nodeify_lambda_context)      
+#Nodeify Lambda Context
 
+##This module is not needed anymore. Lambda context objects have a done callback that behaves the same as a node callback. 
 
-Nodeify Lambda Context
-====================
-
-About
---------------
 Converts an AWS Lambda context object to a node callback.
 
-Setup
---------------
+[![Build Status](https://semaphoreci.com/api/v1/projects/6174d74a-3a33-49d8-ae1f-50acd07757e2/483533/badge.svg)](https://semaphoreci.com/lp/nodeify_lambda_context) 
+
+
+#Setup
 
 ```sh
 npm install nodeify_lambda_context
 ```
 
-Example
---------------
+#Example
 
 ```js
 
